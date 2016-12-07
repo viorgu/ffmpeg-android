@@ -36,6 +36,8 @@ make clean
 --enable-hardcoded-tables \
 --disable-ffplay \
 --disable-ffprobe \
+--enable-jni \
+--enable-mediacodec \
 --enable-gpl \
 --enable-yasm \
 --disable-doc \
